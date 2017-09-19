@@ -1,0 +1,8 @@
+False
+['not', 'b']
+False
+False
+['or', 'a', 'c']
+False
+['or', 'a', 'b', 'c', 'd']
+False
